@@ -12,8 +12,15 @@ $ cd movie-wishlists
 </pre>
 
 <h3>Run Server</h3>
+To runs the app in the development mode
 <pre>$ npm start
 # Navigate to http://localhost:3000/
 </pre>
 
- 
+Launches the test runner in the interactive watch mode.
+<pre>$ npm test </pre>
+
+Builds the app for production mode to the `build` folder which is minified and the filenames include the hashes
+<pre>$ npm run build </pre>
+
+Your app is ready !
